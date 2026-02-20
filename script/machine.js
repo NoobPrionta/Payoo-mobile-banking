@@ -1,0 +1,1 @@
+//machine id -> input value
